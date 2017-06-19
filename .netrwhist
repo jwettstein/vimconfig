@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/Jeff/Desktop/CS61C_Su15/projs/hw1/test/.beargit/6666666666666666666666666666666666666661'
+let g:netrw_dirhist_2='/Users/Jeff/Desktop/CS61C_Su15/projs/hw1/test/.beargit'
+let g:netrw_dirhist_3='/Users/Jeff/Desktop/CS61C_Su15/projs/hw1/autotest/beargit_test_add_0'
+let g:netrw_dirhist_4='/Users/Jeff/Desktop/CS61C_Su15/projs/hw1/.git'
+let g:netrw_dirhist_5='/Users/Jeff/Desktop/gem5/gem5/tests/test-progs/hello/bin/alpha/linux'
+let g:netrw_dirhist_6='/Users/Jeff/Desktop/gem5/gem5/tests/test-progs/hello'
+let g:netrw_dirhist_7='/Users/Jeff/Desktop/gem5/gem5/tests/test-progs/hello/src'
+let g:netrw_dirhist_8='/Users/Jeff/Desktop/CS61C_Su15/projs/hw1/test/.beargit'
+let g:netrw_dirhist_9='/Users/Jeff/.vim/syntax'
